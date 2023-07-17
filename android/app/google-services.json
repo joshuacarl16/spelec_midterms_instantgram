@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "169318759576",
+    "project_id": "spelec-carljulfranz",
+    "storage_bucket": "spelec-carljulfranz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169318759576:android:b2a6b3bf647d48a8c5e4ed",
+        "android_client_info": {
+          "package_name": "com.example.spelec_midterms1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169318759576-dlh5ck29c849u9mac17qdilob203fc2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMq68wBcRFAq6gaTKhwNxqyZswjENS9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169318759576-85ir0drucu3644pn61df4hldp234215k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169318759576-19ajfsknbr7iagfvb5mioneogtjm9hvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spelecMidterms1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
